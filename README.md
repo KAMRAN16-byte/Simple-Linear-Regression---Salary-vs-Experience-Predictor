@@ -110,12 +110,12 @@ predictions = regressor.predict(X_test)
 ## 📊 Visual Results
 
 ### **Training Set Visualization**
-![Training Results](https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=Training+Set+Regression+Line)
+![Training Results](Visualization/Training.png)
 
 The regression line closely follows the training data points, showing the model has learned the underlying pattern.
 
 ### **Test Set Visualization**
-![Test Results](https://via.placeholder.com/800x400/2196F3/FFFFFF?text=Test+Set+Predictions+vs+Actual)
+![Test Results](Visualization/Test.png)
 
 Predictions on unseen data show the model's generalization capability.
 
