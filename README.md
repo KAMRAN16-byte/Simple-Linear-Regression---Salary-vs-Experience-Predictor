@@ -297,7 +297,7 @@ Permission is hereby granted...
 
 If you find this project useful, please give it a star! ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/simple-linear-regression&type=Date)](https://star-history.com/#yourusername/simple-linear-regression&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=KAMRAN16-byte/Simple-Linear-Regression&type=Date)](https://star-history.com/#KAMRAN16-byte/Simple-Linear-Regression&Date)
 
 ---
 
