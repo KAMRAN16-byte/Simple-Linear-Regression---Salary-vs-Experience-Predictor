@@ -20,10 +20,6 @@ simple-linear-regression/
 ├── 📁 notebooks/
 │   └── simple_linear_regression.ipynb  # Main Jupyter notebook with complete implementation
 │
-├── 📁 visualizations/            # Generated plots and charts
-│   ├── training_results.png      # Training set visualization
-│   └── test_results.png          # Test set visualization
-│
 ├── README.md                     # This file
 └── requirements.txt              # Python dependencies
 ```
